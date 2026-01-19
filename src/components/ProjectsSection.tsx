@@ -15,7 +15,7 @@ const projects = [
       "7-day forecast",
       "Dynamic weather icons",
     ],
-    liveUrl: "https://example.com",
+    liveUrl: "https://weatherlocate.netlify.app",
     githubUrl: "https://github.com",
   },
   {
